@@ -1,2 +1,2 @@
 # paginacao
-Projeto em HTML, CSS e JavaScript de paginação
+Projeto de paginação em HTML, CSS e JavaScript.
